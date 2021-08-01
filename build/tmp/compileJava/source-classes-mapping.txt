@@ -1,0 +1,16 @@
+co/com/chourcair/pruebaTecnica/userinterface/ChoucairAcademyPage.java
+ co.com.chourcair.pruebaTecnica.userinterface.ChoucairAcademyPage
+co/com/chourcair/pruebaTecnica/tasks/OpenUp.java
+ co.com.chourcair.pruebaTecnica.tasks.OpenUp
+co/com/chourcair/pruebaTecnica/tasks/Search.java
+ co.com.chourcair.pruebaTecnica.tasks.Search
+co/com/chourcair/pruebaTecnica/userinterface/ChoucairLoginPage.java
+ co.com.chourcair.pruebaTecnica.userinterface.ChoucairLoginPage
+co/com/chourcair/pruebaTecnica/userinterface/SearchCoursePage.java
+ co.com.chourcair.pruebaTecnica.userinterface.SearchCoursePage
+co/com/chourcair/pruebaTecnica/questions/Answer.java
+ co.com.chourcair.pruebaTecnica.questions.Answer
+co/com/chourcair/pruebaTecnica/model/AcademyChoucairData.java
+ co.com.chourcair.pruebaTecnica.model.AcademyChoucairData
+co/com/chourcair/pruebaTecnica/tasks/Login.java
+ co.com.chourcair.pruebaTecnica.tasks.Login

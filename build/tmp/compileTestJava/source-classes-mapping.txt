@@ -1,0 +1,4 @@
+co/com/choucair/certification/pruebaTecnica/runners/RunnerTargs.java
+ co.com.choucair.certification.pruebaTecnica.runners.RunnerTargs
+co/com/choucair/certification/pruebaTecnica/stepdefinitions/ChoucairAcademyStepDefinitions.java
+ co.com.choucair.certification.pruebaTecnica.stepdefinitions.ChoucairAcademyStepDefinitions
